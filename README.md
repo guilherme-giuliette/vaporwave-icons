@@ -5,6 +5,7 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 ![Format: ICO+PNG](https://img.shields.io/badge/Format-ICO%20%2B%20PNG-blueviolet)
 ![Theme: Vaporwave](https://img.shields.io/badge/Theme-Vaporwave-%23FF9BFD)
+<br><br>
 
 > *Neon nostalgia for your desktop — free & open source vaporwave icon pack.*
 
