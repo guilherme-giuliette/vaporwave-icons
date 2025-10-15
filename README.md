@@ -65,7 +65,7 @@ Wallpapers are available separately (2560×1600px).
 
 👉 **[Download wallpapers here ↗](https://your-link-here.com)**
 
-*(Replace with your Drive / Itch.io / Gumroad link.)*
+*(link not available yet)*
 
 ---
 
@@ -104,6 +104,7 @@ If you enjoy this pack or use it in your setup, feel free to:
 
 ---
 
+<br><br>
 > *“Retrofuturism meets desktop customization — enjoy the vibe!”*  
 > — **Guilherme Giuliette** / [**@kleberTM**](https://github.com/guilherme-giuliette)
 
